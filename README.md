@@ -2,7 +2,7 @@
 
 A single-page, ultra-polished personal portfolio built with shadcn/ui and Tailwind, designed for exceptional visual quality and responsive excellence. Lumina showcases skills, experience, projects, and contact information in a compact, elegant, and highly interactive one-page layout. It features smooth animations, responsive design, and seamless integration with Cloudflare Workers for contact form handling.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Md-Arman-Hossain-007/lumina-personal-portfolio)
 
 ## Features
 
@@ -156,7 +156,7 @@ This project is optimized for Cloudflare Workers. Deployment bundles the fronten
    ```
    This builds the app and deploys via Wrangler. Your site will be live at `https://<project-name>.<your-subdomain>.workers.dev`.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Md-Arman-Hossain-007/lumina-personal-portfolio)
 
 **Custom Domain**:
 - In the Cloudflare dashboard, add a custom domain under Workers > Your Worker > Settings > Triggers.
